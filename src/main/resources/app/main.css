@@ -1,0 +1,19 @@
+.label-info {
+    -fx-background-radius: 10em;
+    -fx-min-width: 200px;
+    -fx-min-height: 200px;
+    -fx-max-width: 200px;
+    -fx-max-height: 200px;
+    -fx-text-fill: #f8f4e6;
+    -fx-font-size: 15;
+}
+
+.button {
+    -fx-background-radius: 5em;
+    -fx-min-width: 100px;
+    -fx-min-height: 100px;
+    -fx-max-width: 100px;
+    -fx-max-height: 100px;
+    -fx-text-fill: white;
+    -fx-font-size: 15;
+}

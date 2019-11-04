@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.Pane?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+
+<Pane fx:id="mainPane" xmlns:fx="http://javafx.com/fxml" fx:controller="app.MainController">
+    <children>
+        <Button fx:id="buttonRed"/>
+        <Button fx:id="buttonYellow"/>
+        <Button fx:id="button2"/>
+        <Button fx:id="button3"/>
+        <Button fx:id="button4"/>
+        <Button fx:id="button5"/>
+        <Button fx:id="button6"/>
+        <Button fx:id="button7"/>
+        <Button fx:id="button8"/>
+        <Button fx:id="button9"/>
+        <Button fx:id="button10"/>
+        <Button fx:id="button11"/>
+    </children>
+    <Label fx:id="info" styleClass="label-info"/>
+</Pane>
